@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href= "https://www.paraskoundal.com"><img src="https://img.icons8.com/material-outlined/30/000000/webpage.png"/></a>
+<a href= "www.paraskoundal.com"><img src="https://img.icons8.com/material-outlined/30/000000/webpage.png"/></a>
 <a href= "https://www.instagram.com/paraskoundal/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
 <a href= "https://twitter.com/paras_koundal"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
