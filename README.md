@@ -16,7 +16,7 @@
 
 ---
 
-## Current Projects
+## Public Projects
 
 - 🛰️ **Multiple ML Works @ IceCube Observatory** – Architecting multiple Graph Neural Networks, CNN and other ML method pipelines and models for reconstruction of Extensive Air Showers (EAS) in Antarctica.
 - 🐚 **[TalkToCode](https://github.com/paraskoundal/talktocode)** (Public Soon) – Local-first AI coding assistant. Chat with your codebase privately using RAG and open-source LLMs.
