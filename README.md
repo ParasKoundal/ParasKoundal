@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img width="500" src="https://media.giphy.com/media/26FfbM5bbhCdLANW0/giphy.gif">
+  <img width="400" src="https://media.giphy.com/media/26FfbM5bbhCdLANW0/giphy.gif">
 </p>
 <p align="center">
   <a href= "https://www.paraskoundal.com"><img src="https://img.icons8.com/material-outlined/30/000000/webpage.png"/></a>
