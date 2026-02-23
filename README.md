@@ -19,7 +19,7 @@
 ## Public Projects
 
 - 🛰️ **Multiple ML Works @ IceCube Observatory** (Public Soon) – Architecting multiple Graph Neural Networks, CNN and other ML method pipelines and models for reconstruction of Extensive Air Showers (EAS) in Antarctica.
-- 🤩 **[NotesGutter](https://github.com/ParasKoundal/NotesGutter)** (400+ downloads in 5 Days 🥳) - Anchors rich markdown <ins>**notes**</ins> and <ins>**infinite-canvas drawings**</ins> to your code, without making your code messy
+- 🤩 **[NotesGutter](https://github.com/ParasKoundal/NotesGutter)** (450+ downloads in 5 Days 🥳) - Anchors rich markdown <ins>**notes**</ins> and <ins>**infinite-canvas drawings**</ins> to your code, without making your code messy
 - 🐚 **[TalkToCode](https://github.com/paraskoundal/talktocode)** (Public Soon) – Local-first AI coding assistant. Chat with your codebase privately using RAG and open-source LLMs.
 - 🖥 **[Shello](https://github.com/ParasKoundal/Shello)** & **[ShelloHub](https://github.com/ParasKoundal/ShelloHub)** - Turns any Linux server into a secure, browser-accessible terminal, bypassing the need for VPNs, port forwarding, or root privileges. Also a combined dashboard to manage multiple Shello instances
 - 📚 **[ShelfScan](https://github.com/ParasKoundal/Shello)** (Public Soon) - Scan any shelf to automatically read book titles, categorize, give ratings etc and locate any specific item on the shelf. This is built out of pain of finding good books at GoodWill.
