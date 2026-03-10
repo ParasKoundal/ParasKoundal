@@ -18,7 +18,7 @@
 
 ## Public Projects
 
-- ✨ [AutoML-Research](https://github.com/ParasKoundal/automl-research/tree/main) – Autonomous ML experimentation for any project. Inspired by Karpathy's autoresearch — the same constraint-driven experiment loop, adapted to work with any ML project, any framework, any AI agent.
+- ✨ **[AutoML-Research](https://github.com/ParasKoundal/automl-research/tree/main)** – Autonomous ML experimentation for any project. Inspired by Karpathy's autoresearch — the same constraint-driven experiment loop, adapted to work with any ML project, any framework, any AI agent.
 - 🛰️ **Multiple ML Works @ IceCube Observatory** (Public Soon) – Architecting multiple Graph Neural Networks, CNN and other ML method pipelines and models for reconstruction of Extensive Air Showers (EAS) in Antarctica.
 - 🤩 **[NotesGutter](https://github.com/ParasKoundal/NotesGutter)** (600+ downloads 🥳) - Anchors rich markdown <ins>**notes**</ins> and <ins>**infinite-canvas drawings**</ins> to your code, without making your code messy
 - 🐚 **[TalkToCode](https://github.com/paraskoundal/talktocode)** (Public Soon) – Local-first AI coding assistant. Chat with your codebase privately using RAG and open-source LLMs.
