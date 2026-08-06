@@ -20,13 +20,13 @@
 
 - ✨ **[AutoML-Research](https://github.com/ParasKoundal/automl-research/tree/main)** – Autonomous ML experimentation for any project. Inspired by Karpathy's autoresearch — the same constraint-driven experiment loop, adapted to work with any ML project, any framework, any AI agent.
 - 🛰️ **Multiple ML Works @ IceCube Observatory** (Public Soon) – Architecting multiple Graph Neural Networks, CNN and other ML method pipelines and models for reconstruction of Extensive Air Showers (EAS) in Antarctica.
-- 🤩 **[NotesGutter](https://github.com/ParasKoundal/NotesGutter)** (600+ downloads 🥳) - Anchors rich markdown <ins>**notes**</ins> and <ins>**infinite-canvas drawings**</ins> to your code, without making your code messy
+- 🤩 **[NotesGutter](https://github.com/ParasKoundal/NotesGutter)** (1350+ downloads 🥳) - Anchors rich markdown <ins>**notes**</ins> and <ins>**infinite-canvas drawings**</ins> to your code, without making your code messy
 - 🐚 **[TalkToCode](https://github.com/paraskoundal/talktocode)** (Public Soon) – Local-first AI coding assistant. Chat with your codebase privately using RAG and open-source LLMs.
+- 💼 **[Job Tracker](https://github.com/ParasKoundal/JobTracker)** (6700+ jobs tracked across users 🥳) - Track job applications with one click. Never lose track of where you applied.
 - 💻 **[GitOn](https://github.com/ParasKoundal/GitOn)** - A feature-rich, deeply integrated Git extension designed to supercharge your version control workflow
 - 🖥 **[Shello](https://github.com/ParasKoundal/Shello)** & **[ShelloHub](https://github.com/ParasKoundal/ShelloHub)** - Turns any Linux server into a secure, browser-accessible terminal, bypassing the need for VPNs, port forwarding, or root privileges. Also a combined dashboard to manage multiple Shello instances
 - 📚 **[ShelfScan](https://github.com/ParasKoundal/Shello)** (Public Soon) - Scan any shelf to automatically read book titles, categorize, give ratings etc and locate any specific item on the shelf. This is built out of pain of finding good books at GoodWill.
 - ֎ **[GPT Search](https://github.com/ParasKoundal/GPTSearch)** - Prompt ChatGPT directly from your browser's address bar 
-- 💼 **[Job Tracker](https://github.com/ParasKoundal/JobTracker)** - Track job applications with one click. Never lose track of where you applied.
 - 📝 **[Git Notes](https://github.com/ParasKoundal/GitNotes)** - Context-aware notes for your GitHub repositories.
 - 🐷 **[Training Script Runner](https://github.com/ParasKoundal/TrainingScriptRunner)** - Stop "fat-fingering" terminal arguments
 
