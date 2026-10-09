@@ -21,6 +21,7 @@
 - ✨ **[AutoML-Research](https://github.com/ParasKoundal/automl-research/tree/main)** – Autonomous ML experimentation for any project. Inspired by Karpathy's autoresearch — the same constraint-driven experiment loop, adapted to work with any ML project, any framework, any AI agent.
 - 🛰️ **Multiple ML Works @ IceCube Observatory** (Public Soon) – Architecting multiple Graph Neural Networks, CNN and other ML method pipelines and models for reconstruction of Extensive Air Showers (EAS) in Antarctica.
 - 🤩 **[NotesGutter](https://github.com/ParasKoundal/NotesGutter)** (1350+ downloads 🥳) - Anchors rich markdown <ins>**notes**</ins> and <ins>**infinite-canvas drawings**</ins> to your code, without making your code messy
+- 🔍 **[ProofSearch](https://proofsearch.org/)** - Search, filter and trace the 722 AI-written math manuscripts in [OpenAI’s openai/math release](https://github.com/openai/math), with Lean verification status, dependency chains, public errata and a built-in research assistant.
 - 🐚 **[TalkToCode](https://github.com/paraskoundal/talktocode)** (Public Soon) – Local-first AI coding assistant. Chat with your codebase privately using RAG and open-source LLMs.
 - 💼 **[Job Tracker](https://github.com/ParasKoundal/JobTracker)** (6700+ jobs tracked across users 🥳) - Track job applications with one click. Never lose track of where you applied.
 - 💻 **[GitOn](https://github.com/ParasKoundal/GitOn)** - A feature-rich, deeply integrated Git extension designed to supercharge your version control workflow
