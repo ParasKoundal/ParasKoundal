@@ -17,13 +17,13 @@
 ---
 
 ## Public Projects
+- 🛰️ **Physics Inspired ML & AI**  – Developing architecture as well as loss-level physics inspired inductive biases for Graph Neural Networks, CNN and other ML methods. Development of pipelines and models for reconstruction of Extensive Air Showers (EAS) for [🏅Nobel Prize winning IceCube Observatory in Antarctica](https://www.nobelprize.org/prizes/physics/2026/press-release/).
+- 🔍 **[ProofSearch](https://proofsearch.org/)** - Search, filter and trace the 722 AI-written math manuscripts in [OpenAI’s openai/math release](https://github.com/openai/math), with Lean verification status, dependency chains, public errata and a built-in research assistant.
 - 🧠 **[MapMyMind](http://mapmymind.online/)** - Ultimate visual workspace for ideation, drawing, mind-mapping, and productivity.
 - ✨ **[AutoML-Research](https://github.com/ParasKoundal/automl-research/tree/main)** – Autonomous ML experimentation for any project. Inspired by Karpathy's autoresearch — the same constraint-driven experiment loop, adapted to work with any ML project, any framework, any AI agent.
-- 🛰️ **Multiple ML Works @ IceCube Observatory** (Public Soon) – Architecting multiple Graph Neural Networks, CNN and other ML method pipelines and models for reconstruction of Extensive Air Showers (EAS) in Antarctica.
-- 🤩 **[NotesGutter](https://github.com/ParasKoundal/NotesGutter)** (1350+ downloads 🥳) - Anchors rich markdown <ins>**notes**</ins> and <ins>**infinite-canvas drawings**</ins> to your code, without making your code messy
-- 🔍 **[ProofSearch](https://proofsearch.org/)** - Search, filter and trace the 722 AI-written math manuscripts in [OpenAI’s openai/math release](https://github.com/openai/math), with Lean verification status, dependency chains, public errata and a built-in research assistant.
+- 🤩 **[NotesGutter](https://github.com/ParasKoundal/NotesGutter)** (1700+ downloads 🥳) - Anchors rich markdown <ins>**notes**</ins> and <ins>**infinite-canvas drawings**</ins> to your code, without making your code messy
 - 🐚 **[TalkToCode](https://github.com/paraskoundal/talktocode)** (Public Soon) – Local-first AI coding assistant. Chat with your codebase privately using RAG and open-source LLMs.
-- 💼 **[Job Tracker](https://github.com/ParasKoundal/JobTracker)** (6700+ jobs tracked across users 🥳) - Track job applications with one click. Never lose track of where you applied.
+- 💼 **[Job Tracker](https://github.com/ParasKoundal/JobTracker)** (7000+ jobs tracked across users 🥳) - Track job applications with one click. Never lose track of where you applied.
 - 💻 **[GitOn](https://github.com/ParasKoundal/GitOn)** - A feature-rich, deeply integrated Git extension designed to supercharge your version control workflow
 - 🖥 **[Shello](https://github.com/ParasKoundal/Shello)** & **[ShelloHub](https://github.com/ParasKoundal/ShelloHub)** - Turns any Linux server into a secure, browser-accessible terminal, bypassing the need for VPNs, port forwarding, or root privileges. Also a combined dashboard to manage multiple Shello instances
 - 📚 **ShelfScan** (Public Soon) - Scan any shelf to automatically read book titles, categorize, give ratings etc and locate any specific item on the shelf. This is built out of pain of finding good books at GoodWill.
