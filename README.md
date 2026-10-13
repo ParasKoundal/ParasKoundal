@@ -26,7 +26,7 @@
 - 💼 **[Job Tracker](https://github.com/ParasKoundal/JobTracker)** (6700+ jobs tracked across users 🥳) - Track job applications with one click. Never lose track of where you applied.
 - 💻 **[GitOn](https://github.com/ParasKoundal/GitOn)** - A feature-rich, deeply integrated Git extension designed to supercharge your version control workflow
 - 🖥 **[Shello](https://github.com/ParasKoundal/Shello)** & **[ShelloHub](https://github.com/ParasKoundal/ShelloHub)** - Turns any Linux server into a secure, browser-accessible terminal, bypassing the need for VPNs, port forwarding, or root privileges. Also a combined dashboard to manage multiple Shello instances
-- 📚 **[ShelfScan](https://github.com/ParasKoundal/Shello)** (Public Soon) - Scan any shelf to automatically read book titles, categorize, give ratings etc and locate any specific item on the shelf. This is built out of pain of finding good books at GoodWill.
+- 📚 **ShelfScan** (Public Soon) - Scan any shelf to automatically read book titles, categorize, give ratings etc and locate any specific item on the shelf. This is built out of pain of finding good books at GoodWill.
 - ֎ **[GPT Search](https://github.com/ParasKoundal/GPTSearch)** - Prompt ChatGPT directly from your browser's address bar 
 - 📝 **[Git Notes](https://github.com/ParasKoundal/GitNotes)** - Context-aware notes for your GitHub repositories.
 - 🐷 **[Training Script Runner](https://github.com/ParasKoundal/TrainingScriptRunner)** - Stop "fat-fingering" terminal arguments
