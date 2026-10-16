@@ -1,6 +1,6 @@
 # Hi, I'm Paras 👋🏾
 
-📍 **Delaware, USA** | 🌌 **Astroparticle Physicist** | 🤖 **GNN & ML Researcher**  | 🧪 **Chemical Engineer**
+📍 **Delaware, USA** | 🤖 **GNN & ML Researcher**  | 🧪 **Chemical Engineer** | 🌌 **Astroparticle Physicist** 
 
 
 <p align="center">
