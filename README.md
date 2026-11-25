@@ -18,7 +18,7 @@
 
 ## Public Projects
 - 🛰️ **Physics Inspired ML & AI**  – Developing architecture as well as loss-level physics inspired inductive biases for Graph Neural Networks, CNN and other ML methods. Development of pipelines and models for reconstruction of Extensive Air Showers (EAS) for [🏅Nobel Prize winning IceCube Observatory in Antarctica](https://www.nobelprize.org/prizes/physics/2026/press-release/).
-- 🔍 **[ProofSearch](https://proofsearch.org/)** - Search, filter and trace the 722 AI-written math manuscripts in [OpenAI’s openai/math release](https://github.com/openai/math), with Lean verification status, dependency chains, public errata and a built-in research assistant.
+- 🔍 **[ProofSearch](https://proofsearch.org/)** - Search, filter and trace all the AI-driven results/proofs by labs like OpenAI, Anthropic; with Lean verification status, dependency chains, public errata and a built-in research assistant.
 - 🧠 **[MapMyMind](http://mapmymind.online/)** - Ultimate visual workspace for ideation, drawing, mind-mapping, and productivity.
 - ✨ **[AutoML-Research](https://github.com/ParasKoundal/automl-research/tree/main)** – Autonomous ML experimentation for any project. Inspired by Karpathy's autoresearch — the same constraint-driven experiment loop, adapted to work with any ML project, any framework, any AI agent.
 - 🤩 **[NotesGutter](https://github.com/ParasKoundal/NotesGutter)** (2200+ downloads 🥳) - Anchors rich markdown <ins>**notes**</ins> and <ins>**infinite-canvas drawings**</ins> to your code, without making your code messy
